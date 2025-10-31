@@ -1,0 +1,18 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#f0fdf4"/>
+  <!-- Mountain -->
+  <polygon points="100,200 200,100 300,200" fill="#86efac"/>
+  <!-- Sun -->
+  <circle cx="320" cy="80" r="30" fill="#fde047"/>
+  <!-- Tree -->
+  <rect x="150" y="180" width="20" height="40" fill="#a16207"/>
+  <circle cx="160" cy="160" r="25" fill="#22c55e"/>
+  <!-- Building -->
+  <rect x="250" y="150" width="80" height="70" fill="#6366f1"/>
+  <rect x="265" y="165" width="15" height="15" fill="#e0e7ff"/>
+  <rect x="300" y="165" width="15" height="15" fill="#e0e7ff"/>
+  <rect x="265" y="190" width="15" height="15" fill="#e0e7ff"/>
+  <rect x="300" y="190" width="15" height="15" fill="#e0e7ff"/>
+  <text x="200" y="250" text-anchor="middle" fill="#374151" font-size="16" font-family="Arial" font-weight="bold">Tourism Management</text>
+  <text x="200" y="270" text-anchor="middle" fill="#6366f1" font-size="12" font-family="Arial">Booking System</text>
+</svg>

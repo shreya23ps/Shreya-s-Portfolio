@@ -1,0 +1,11 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#f0f9ff"/>
+  <rect x="50" y="50" width="300" height="60" rx="10" fill="#6366f1"/>
+  <rect x="50" y="130" width="120" height="40" rx="5" fill="#10b981"/>
+  <rect x="190" y="130" width="120" height="40" rx="5" fill="#f59e0b"/>
+  <rect x="50" y="190" width="300" height="60" rx="10" fill="#e0e7ff"/>
+  <text x="200" y="85" text-anchor="middle" fill="white" font-size="16" font-family="Arial" font-weight="bold">Admin Dashboard</text>
+  <text x="110" y="155" text-anchor="middle" fill="white" font-size="12" font-family="Arial">User Access</text>
+  <text x="250" y="155" text-anchor="middle" fill="white" font-size="12" font-family="Arial">Admin Panel</text>
+  <text x="200" y="220" text-anchor="middle" fill="#374151" font-size="14" font-family="Arial">Role-Based System</text>
+</svg>
